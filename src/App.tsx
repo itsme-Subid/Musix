@@ -3,7 +3,6 @@ import { AnimatePresence } from "framer-motion";
 import { Route, Routes, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 import axios from "axios";
-import sample from "./assets/sample.json";
 import Sidebar from "./components/Sidebar";
 import { musicType } from "./types/music";
 import { useAppSelector } from "./redux/store";
@@ -37,7 +36,6 @@ const App = () => {
   };
   useEffect(() => {
     getRecommendations();
-    console.log(sample);
   }, []);
   const music: musicType = useAppSelector((state) => state.musicReducer.music);
   return (
