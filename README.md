@@ -2,7 +2,7 @@
 
 # [Musix](musix.vercel.app/)
 
-![](https://raw.githubusercontent.com/itsme-Subid/Musix/master/preview.webp)
+![](https://raw.githubusercontent.com/itsme-Subid/Musix/main/preview.webp)
 ![](https://img.shields.io/github/languages/top/itsme-Subid/Musix?style=for-the-badge)
 ![](https://img.shields.io/github/languages/count/itsme-Subid/Musix?style=for-the-badge)
 ![](https://img.shields.io/github/languages/code-size/itsme-Subid/Musix?style=for-the-badge)
